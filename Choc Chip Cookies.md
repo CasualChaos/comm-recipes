@@ -5,6 +5,8 @@ tags:
   - recipe
   - baking
 share: "true"
+title: Choc Chip Cookies
+layout: default
 ---
 
 ### Ingredients
