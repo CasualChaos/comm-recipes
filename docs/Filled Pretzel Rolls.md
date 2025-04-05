@@ -16,8 +16,7 @@ Easy rolls to make and freeze for quick breakfast or lunch. Just microwave for a
 Use whatever fillings you would like.
 
 ## Ingredients
-#ingredients 
-Use [Pizza Dough](Pizza%20Dough.md) as dough
+Use [Pizza Dough](Pizza%20Dough.md) for dough
 #### Filling Options
 **Breakfast rolls**
 - [x] 2 cups Shredded Cheddar Cheese

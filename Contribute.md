@@ -1,6 +1,8 @@
 ---
 title: Contribute
-Parent: About
+parent: About
+nav_order: 2
+
 ---
 
 # How to Contribute

@@ -4,8 +4,8 @@ theme: just-the-docs
 
 url: https://casualchaos.github.io/comm-recipes
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+# aux_links:
+#   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
 plugins:
   - jekyll-default-layout
