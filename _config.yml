@@ -11,8 +11,6 @@ favicon_ico: "/assets/images/favicon.ico"
 
 plugins:
   - jekyll-default-layout
-#  - jekyll/tagging
-  # - jekyll-tagories
 
-sass:
-  quiet_deps: true
+
+
