@@ -1,10 +1,8 @@
 ---
-aliases:
-  - Choc Chip Cookies
-tags:
-  - recipe
-  - baking
-share: "true"
+tags: [baking]
+title: Choc Chip Cookies
+layout: recipe
+parent: All Recipes
 ---
 ## Description  
 Easy choc chip cookies.  

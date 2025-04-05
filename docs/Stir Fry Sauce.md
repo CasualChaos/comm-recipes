@@ -1,11 +1,9 @@
 ---
 aliases: 
-tags:
-  - recipe
-  - quick
-  - dinner
+tags: [quick, dinner]
 title: Stir Fry Sauce
-share: "true"
+layout: recipe
+parent: All Recipes
 ---
 Total time: 30min  
 Active time: 30min  

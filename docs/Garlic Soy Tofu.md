@@ -1,12 +1,5 @@
 ---
-aliases:
-  - Crispy Garlic Soy Tofu
-tags:
-  - recipe
-  - vegetarian
-  - quick
-  - entree
-share: "true"
+tags: [vegetarian, quick, entree]
 title: Garlic Soy Tofu
 parent: All Recipes
 layout: recipe

@@ -1,11 +1,10 @@
 ---
 aliases:
   - Hot Pot
-tags:
-  - recipe
-  - misc
-title: Hot Pot Ingredients
-share: "true"
+tags: [misc]
+title: Hot Pot Shopping list
+layout: recipe
+parent: All Recipes
 ---
 Total time: 3hrs  
 Active time: 30min or so chopping and plating   

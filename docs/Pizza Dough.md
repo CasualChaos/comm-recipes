@@ -1,11 +1,9 @@
 ---
-aliases:
-  - Pizza Dough
-tags:
-  - recipe
-  - dinner
+tags: [dinner]
 share: "true"
 title: Pizza Dough
+layout: recipe
+parent: All Recipes
 ---
   
 Total time: 40-60 min  

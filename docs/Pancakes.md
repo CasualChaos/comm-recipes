@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Pancakes
-tags:
-  - recipe
-  - breakfast
+tags: [breakfast]
 title: Pancakes
-share: "true"
+layout: recipe
+parent: All Recipes
 ---
 Total time:   
 Active time:   

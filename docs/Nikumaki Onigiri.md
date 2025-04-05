@@ -1,10 +1,8 @@
 ---
-aliases: 
-tags:
-  - recipe
-  - lunch
+tags: [lunch, dinner]
 title: Nikumaki Onigiri
-share: "true"
+layout: recipe
+parent: All Recipes
 ---
 Total time: 40 min  
 Active time:   

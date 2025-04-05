@@ -1,12 +1,8 @@
 ---
-aliases:
-  - Filled Pretzel Roll
-tags:
-  - recipe
-  - mealprep
-  - lunch
-  - breakfast
-share: "true"
+Title: Filled Pretzel Roll
+tags: [meal prep, lunch, breakfast]
+layout: recipe
+parent: All Recipes
 ---
   
 Total time: 1.5hrs  

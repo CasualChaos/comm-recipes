@@ -1,11 +1,10 @@
 ---
 aliases:
   - Pasta
-tags:
-  - recipe
-  - misc
+tags: [dinner]
 title: Simple Pasta Sauce
-share: "true"
+layout: recipe
+parent: All Recipes
 ---
 Total time: 40 min  
 Prep: 10 min  

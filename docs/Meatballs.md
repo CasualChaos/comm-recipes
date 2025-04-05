@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Meatballs
-tags:
-  - recipe
-  - dinner
+tags: [dinner, meal prep]
 title: Meatballs
-share: "true"
+layout: recipe
+parent: All Recipes
 ---
 Total time: 1hour-ish?  
 Active time: 40min  

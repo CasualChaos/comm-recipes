@@ -1,11 +1,8 @@
 ---
-aliases: 
-tags:
-  - recipe
-  - dinner
-  - mealprep
+tags: [dinner, meal prep]
 title: Cheesy Pasta Bake
-share: "true"
+layout: recipe
+parent: All Recipes
 ---
 Total time: 60min  
 Active time: 20min  

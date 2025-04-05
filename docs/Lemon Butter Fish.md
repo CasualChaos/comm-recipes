@@ -1,12 +1,10 @@
 ---
 aliases:
   - Lemon Butter Fish
-tags:
-  - recipe
-  - dinner
-  - quick
-share: "true"
+tags: [dinner, quick]
 title: Lemon Butter Fish
+layout: recipe
+parent: All Recipes
 ---
 Total time: 20min  
 Active time: 15min  

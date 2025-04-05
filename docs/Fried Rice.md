@@ -1,10 +1,8 @@
 ---
 title: Fried Rice
-tags:
-  - recipe
-  - dinner
-  - quick
-share: "true"
+tags: [dinner, quick]
+layout: recipe
+parent: All Recipes
 ---
 Total time:   
 Active time:   

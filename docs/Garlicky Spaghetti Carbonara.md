@@ -1,13 +1,9 @@
 ---
-aliases:
-  - Garlicky Spaghetti Carbonara
-tags:
-  - recipe
-  - dinner
-  - quick
-  - vegetarian
-share: "true"
+
+tags: [dinner, quick, vegetarian]
 title: Garlicky Spaghetti Carbonara
+layout: recipe
+parent: All Recipes
 ---
 Total time: 25min  
 Active time: 25min  
