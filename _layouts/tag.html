@@ -8,7 +8,9 @@ parent: Tags
   {% for post in site.pages %}
   {% if post.tags contains page.tag %}
   
-  <li><a class="page" href="{{ post.url }}">{{ post.title }}</a></li>
+  <li><a class="page" href="/comm-recipes/docs/{{post.title}}">{{ post.title }}</a></li>
   {% endif %}
   {% endfor %}
 </ul>
+
+href="/comm-recipes/tag/{{tag}}">#{{tag}}
