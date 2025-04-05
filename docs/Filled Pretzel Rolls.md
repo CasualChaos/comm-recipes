@@ -1,13 +1,9 @@
 ---
-aliases:
-  - Template
-tags:
-  - recipe
-  - mealprep
-  - lunch
-  - breakfast
+title: Filled Pretzel Rolls
+tags: [recipe, mealprep]
 share: "true"
 ---
+
 Total time: 1.5hrs
 Active time: 1 hour
 
@@ -17,7 +13,7 @@ Servings: ~8
 ---
 ## Description
 Easy rolls to make and freeze for quick breakfast or lunch. Just microwave for a few minutes to thaw. 
-
+Use whatever fillings you would like.
 
 ## Ingredients
 #ingredients 
@@ -52,3 +48,10 @@ Use [Pizza Dough](Pizza%20Dough.md) as dough
 7. Bake the rolls for 12-15 minutes or until the rolls are golden brown. When they come out of the oven, brush with the melted butter. 
 #### Link
 [Recipe Link]()
+
+<p>
+  Tagged 
+  {% for tag in page.tags %}
+  <a class="post" href="/tag/{{tag}}">#{{tag}}</a>{% unless forloop.last %}, {% endunless %}
+  {% endfor %}
+</p>

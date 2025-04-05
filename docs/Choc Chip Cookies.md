@@ -1,9 +1,7 @@
 ---
 aliases:
   - Choc Chip Cookies
-tags:
-  - recipe
-  - baking
+tags: [recipes, baking]
 share: "true"
 title: Choc Chip Cookies
 layout: default
@@ -24,3 +22,11 @@ layout: default
 1. Cream together butter and sugars until light and fluffy. Whisk in egg and vanilla. Stir in flour then fold through Chocolate Chips.
 
 2. Place teaspoons on greased baking trays. Bake in a moderately slow oven 160°C for 10-15 minutes or until cooked. Cool on a wire rack.
+
+
+<p>
+  Tagged 
+  {% for tag in page.tags %}
+  <a class="post" href="/tag/{{tag}}">#{{tag}}</a>{% unless forloop.last %}, {% endunless %}
+  {% endfor %}
+</p>
