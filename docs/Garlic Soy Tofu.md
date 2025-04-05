@@ -6,6 +6,7 @@ tags:
   - vegetarian
   - quick
   - entree
+  - ingredients
 share: "true"
 title: Crispy Garlic Soy Tofu
 ---
