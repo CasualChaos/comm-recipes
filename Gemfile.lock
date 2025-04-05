@@ -55,8 +55,6 @@ GEM
       sass-embedded (~> 1.54)
     jekyll-seo-tag (2.8.0)
       jekyll (>= 3.8, < 5.0)
-    jekyll-tagging (1.1.0)
-      nuggets
     jekyll-tagories (0.1.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-watch (2.2.1)
@@ -76,7 +74,6 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
-    nuggets (1.6.1)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (6.0.1)
@@ -106,7 +103,6 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.4.1)
   jekyll-default-layout
-  jekyll-tagging
   jekyll-tagories (~> 0.1.0)
   just-the-docs (= 0.10.1)
 
