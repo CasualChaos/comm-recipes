@@ -1,6 +1,6 @@
 ---
 title: About
-nav_order: 99
+nav_order: zz
 layout: about
 has_toc: no
 ---

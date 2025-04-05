@@ -1,13 +1,9 @@
 ---
-aliases:
-  - Crispy Garlic Soy Tofu
-tags:
-  - recipe
-  - vegetarian
-  - quick
-  - entree
+tags: [recipe, vegetarian, quick, entree]
 share: "true"
-title: Crispy Garlic Soy Tofu
+title: Garlic Soy Tofu
+layout: recipe
+parent: All Recipes
 ---
 [Recipe Link](https://christieathome.com/blog/crispy-soy-garlic-tofu/#recipe)
 
@@ -15,6 +11,7 @@ Total time: 20min
 Active time: 20min
 Servings: ~3
 Pairing Suggestions: on white rice
+
 #### Description
 Quick Asian stir fry, easy to convert to vegetarian/vegan. 
 ## Ingredients

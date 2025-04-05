@@ -1,10 +1,10 @@
 ---
-tags: recipes baking
+tags: [recipe, baking]
 share: "true"
 title: Choc Chip Cookies
-layout: default
+layout: recipe
+parent: All Recipes
 ---
-<h1>{{page.title}}</h1>
 
 ### Ingredients
 
@@ -21,4 +21,3 @@ layout: default
 1. Cream together butter and sugars until light and fluffy. Whisk in egg and vanilla. Stir in flour then fold through chocolate chips or whatever mix-ins you're using.
 
 2. Place heaped teaspoon sized balls of dough of on greased baking trays. Bake at 160°C (fan-forced) for 10-15 minutes or until golden on edges. Cool on a wire rack.
-

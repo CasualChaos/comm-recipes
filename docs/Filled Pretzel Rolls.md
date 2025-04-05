@@ -1,7 +1,9 @@
 ---
 title: Filled Pretzel Rolls
-tags: recipe mealprep
+tags: [recipe, meal prep]
 share: "true"
+layout: recipe
+parent: All Recipes
 ---
 
 Total time: 1.5hrs
