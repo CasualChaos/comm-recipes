@@ -9,3 +9,11 @@ aux_links:
 
 plugins:
   - jekyll-default-layout
+#  - jekyll/tagging
+  - jekyll-tagories
+
+sass:
+  quiet_deps: true
+
+# tag_page_layout: tag_page
+# tag_page_dir: tags
