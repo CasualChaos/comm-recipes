@@ -10,7 +10,7 @@ aux_links:
 plugins:
   - jekyll-default-layout
 #  - jekyll/tagging
-  - jekyll-tagories
+#  - jekyll-tagories
 
 sass:
   quiet_deps: true
