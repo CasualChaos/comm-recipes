@@ -4,6 +4,7 @@ theme: just-the-docs
 
 url: https://casualchaos.github.io/comm-recipes
 
+favicon_ico: "/assets/images/favicon.ico"
 # aux_links:
 #   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
