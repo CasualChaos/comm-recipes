@@ -1,6 +1,6 @@
 ---
 Title: Filled Pretzel Roll
-tags: [meal prep, lunch, breakfast]
+tags: [meal prep, lunch, breakfast, vegetarian]
 layout: recipe
 parent: All Recipes
 ---
@@ -9,7 +9,6 @@ Total time: 1.5hrs
 Active time: 1 hour  
   
 Servings: ~8  
-  
   
 ---  
 ## Description  
@@ -22,7 +21,7 @@ Use [Pizza Dough](./Pizza%20Dough.md) as dough
 #### Filling Options  
 **Breakfast rolls**  
 - 2 cups Shredded Cheddar Cheese  
-- 1 cup Diced Cooked Ham  
+- 1 cup Diced Cooked Ham (or cooked diced mushroom)  
 - 6 Eggs, scrambled  
   
 **Pizza Rolls**  

@@ -1,5 +1,5 @@
 ---
-tags: [dinner, meal prep]
+tags: [dinner, meal prep, vegetarian]
 title: Cheesy Pasta Bake
 layout: recipe
 parent: All Recipes
@@ -13,13 +13,17 @@ Pairing Suggestions: Salad, roast potatoes, chips
   
 ---  
 ## Description  
+Honestly this recipe is a lie. I almost never make this. 
+
+Make up a batch of [Simple Pasta Sauce](Simple Pasta Sauce.html), cook whatever else you want (canned lentils, bacon, mushrooms, canned tuna) and add to sauce. Cook your pasta until it's about 4min from done. Chuck all of that in a baking dish/casserole dish, put cheese on top and whack it in the oven at about 200C for 20-30min. EZ. Make sure your pasta sauce isn't too dry also. 
+
 ## Ingredients  
    
 -  500g pasta, penne or spiral is nice  
 - 2 tbsp olive oil  
 - 2 brown onions, diced  
-- 2 garlic cloves, crushed  
-- 150g smoked pancetta (or bacon), finely diced  
+- 2 garlic cloves, minced  
+- 150g smoked pancetta (or bacon)(or mushrooms), finely diced  
 - 2 tins canned tomatoes  
 - 1 bunch basil  
 - 150g Mozzarella, grated  
@@ -40,5 +44,6 @@ Pairing Suggestions: Salad, roast potatoes, chips
 5. Put everything in a baking dish. Coat pasta with sauce and cover with cheeses.   
   
 6. Cover with foil and bake for 40 minutes.  
+
 #### Link  
 [Recipe Link](https://sanremo.com.au/recipes/rigatoni-cheesy-pasta-bake/)

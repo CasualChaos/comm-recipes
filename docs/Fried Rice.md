@@ -1,35 +1,38 @@
 ---
 title: Fried Rice
-tags: [dinner, quick]
+tags: [dinner, quick, vegetarian, vegan]
 layout: recipe
 parent: All Recipes
 ---
-Total time:   
-Active time:   
+Total time: 20-30min  
+Active time: 20-30min   
   
-Servings:   
+Servings: idk like 6?
   
-Pairing Suggestions:   
+Pairing Suggestions: steamed bok choy, garlic fried beans, fried egg, [Garlic Soy Tofu](Garlic Soy Tofu.html)   
   
 ---  
 ## Description  
 Fried rice. Use cold leftover rice if you have it, otherwise when you make this don't make the rice too wet. It gets sticky and clumpy.   
+
+Get your basics and some options from combo. Easy.
   
 ## Ingredients  
    
 Basics  
-- 3 tbsp Butter  
+- 3 tbsp Butter, sub margarine or oil for vegan  
 - 3 cloves Garlic, minced  
 - 3-4 tbsp soy sauce  
-- 2 tsp Oyster Sauce  
+- 2 tsp Oyster Sauce, you can get vegan stir fry sauce or vegan oyster sauce. Or replace with soy sauce.  
 - 1/2 tsp Sesame Oil  
 - salt and pepper  
 - Rice, 4 cups cooked (2 cups-ish dry)  
   
 Combos  
-- 2-3 Eggs,  scrambled  
+- 2-3 Eggs, scrambled  
 - Carrots, diced  
 - Peas, frozen  
+- Corn, kernals or baby  
 - Mushrooms, diced  
 - Onion, diced  
 - Spring Onion  

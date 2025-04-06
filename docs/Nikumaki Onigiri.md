@@ -9,10 +9,15 @@ Active time:
   
 Servings: 16 onigiri, 4 serves  
   
-Pairing Suggestions:   
+Pairing Suggestions: Kewpi mayo 
   
 ---  
 ## Description  
+Onigiri. Had it at a street vendor in Japan, eternally trying to recreate it. 
+Good way to use up beef or pork thins left over from [hot pot](Hot Pot Ingredients.html).
+
+I reckon this would be good if I also wrapped it in lettuce to eat. I should try that.
+
 ## Ingredients  
    
 Onigiri  
