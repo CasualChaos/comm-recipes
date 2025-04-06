@@ -8,3 +8,4 @@ gem "just-the-docs"        # always download the latest release
 gem "jekyll-default-layout"
 # gem "jekyll-tagging"
 # gem 'jekyll-tagories', '~> 0.1.0'
+gem 'jekyll-target-blank'

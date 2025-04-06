@@ -11,6 +11,7 @@ favicon_ico: "/assets/images/favicon.ico"
 
 plugins:
   - jekyll-default-layout
+  - jekyll-target-blank
 
 
 

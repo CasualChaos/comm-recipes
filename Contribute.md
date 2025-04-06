@@ -25,6 +25,7 @@ Copy the following temple into notepad or your text editor of choice and save as
 Edit the title and tags properties to suit. You can see a list of tags in existing use in the sidebar.<br>
 If this recipe is modified from another recipe or requires links to external notes please add any links at the bottom of the file.
 
+Until I change my linking set-up, **the title and filename need to be the same.**
 
 ```markdown
 ---
