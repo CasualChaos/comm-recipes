@@ -16,7 +16,7 @@ Simple pizza dough. Start it like 30 -60min before you want to make your pizza.
   
 #### Notes  
 If your yeast has been in the fridge let it sit out for at least half an hour to come to room temp.  
-If it's too cold for your dough to rise, create a warming drawer by preheating your oven to 50$^o$ C or as low as possible before turning off. Cover your dough and leave in the oven to rise.  
+If it's too cold for your dough to rise, create a warming drawer by preheating your oven to 50C or as low as possible before turning off. Cover your dough and leave in the oven to rise.  
   
 ## Ingredients  
    
