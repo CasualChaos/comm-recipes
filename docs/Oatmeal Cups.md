@@ -1,7 +1,6 @@
 ---
 title: Oatmeal Cups
 tags:
-  - recipe
   - breakfast
   - mealprep
 layout: recipe
