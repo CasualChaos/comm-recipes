@@ -14,3 +14,6 @@ I'm still figuring out a solution for tagging and sorting recipes but until then
 I think the tagging is pretty set now.
 I'm planning on adding a table here of recipes links and tags in the future.
 
+07/04/2025
+Recipe table is not going to be as easy as I thought. Maybe I'll just link to some recipes that I like.
+
