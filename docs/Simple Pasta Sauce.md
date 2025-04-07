@@ -39,7 +39,7 @@ Easy pasta sauce ndd variants
 4. Cook the meatballs for 8 - 10 minutes, turning and stirring occasionally.  
 5. Serve w/pasta  
   
-*If making a basic pasta w/mince*  
+*If making a simple pasta w/mince*  
 After Step 2 above  
 3. Add beef mince breaking it up in the pan. Cook until browned. Also add mushrooms here if using.   
 4. Add rest of sauce ingredients and bring to a simmer. Turn down and let bubble for 30min or so.   

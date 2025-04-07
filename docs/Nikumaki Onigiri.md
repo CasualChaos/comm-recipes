@@ -1,5 +1,5 @@
 ---
-tags: [lunch, dinner]
+tags: [lunch]
 title: Nikumaki Onigiri
 layout: recipe
 parent: All Recipes

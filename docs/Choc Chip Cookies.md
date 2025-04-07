@@ -14,11 +14,11 @@ When softening the butter, add the bare minimum heat. The warmer your dough the 
 ## Ingredients  
    
 - 125g butter, softened  
-- ½ cup brown sugar  
-- ⅓ cup caster sugar  
+- 1/2 cup brown sugar  
+- 1/3 cup caster sugar  
 - 1 egg  
 - 1 teaspoon vanilla  
-- 1½ cups self raising flour  
+- 1 1/2 cups self raising flour  
 - 3/4 cup choc chips or other mix-ins  
   
 ## Instructions  

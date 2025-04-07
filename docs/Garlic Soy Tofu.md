@@ -38,4 +38,5 @@ Quick Asian stir fry, easy to convert to vegetarian/vegan.
 5. Add the sauce into the pan and simmer to thicken.
 6. Toss fried tofu in the thickened sauce until coated. Remove from heat. Garnish with spring onions and sesame seeds.
   
+## Link  
 [Recipe Link](https://christieathome.com/blog/crispy-soy-garlic-tofu/#recipe)
