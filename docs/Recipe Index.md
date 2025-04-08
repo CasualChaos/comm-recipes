@@ -3,8 +3,9 @@ share: "true"
 title: Recipe Index
 layout: recipe
 ---
+.html)  
 #### Breakfast  
-- [Pancakes](./Pancakes.html)  
+- [Pancakes](./Pancakes.md)  
 - [Oatmeal Cups](./Oatmeal%20Cups.md)  
 - [Filled Pretzel Rolls](./Filled%20Pretzel%20Rolls.md)  
   
