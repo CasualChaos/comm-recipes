@@ -3,7 +3,7 @@ title: Vegan Egg Substitutes
 tags:
   - misc
   - vegan
-layout: tabrecipe
+layout: recipe
 parent: All Recipes
 share: "true"
 ---
