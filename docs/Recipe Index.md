@@ -1,9 +1,8 @@
 ---
 share: "true"
 title: Recipe Index
-layout: recipe
+layout: tabrecipe
 ---
-<details open markdown="block">   <summary>     Table of contents   </summary>   {: .text-delta } 1. TOC {:toc} </details>  
 #### Recipes  
 #### Breakfast  
 - [Pancakes](./Pancakes.md)  
