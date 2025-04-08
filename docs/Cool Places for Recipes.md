@@ -1,7 +1,7 @@
 ---
 title: Cool Places for Recipes
 layout: default
-nav_order: 4
+nav_order: 5
 ---
 <h1>{{page.title}}</h1>
 
