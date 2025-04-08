@@ -1,10 +1,13 @@
 ---
 aliases:
   - Lemon Butter Fish
-tags: [dinner, quick]
+tags:
+  - dinner
+  - quick
+share: "true"
 title: Lemon Butter Fish
-layout: recipe
 parent: All Recipes
+layout: recipe
 ---
 Total time: 20min  
 Active time: 15min  
@@ -12,12 +15,12 @@ Active time: 15min
 Servings: 4  
   
 Pairing Suggestions: Over rice, with potatoes, any steamed veggies  
-    
+  
+>Notes: The fish cooks so fast. Like 5 minutes.   
   
 ---  
 ### Description   
-Quick, versatile fish. Serve with anything. Rice, potatoes and salad, steamed veggies.  
->Notes: The fish cooks so fast. Like 5 minutes.   
+Quick, versatile fish. Serve with anything. Rice, potatoes and salad, steamed veggies.   
   
 ### Ingredients    
    
@@ -33,11 +36,11 @@ Quick, versatile fish. Serve with anything. Rice, potatoes and salad, steamed ve
 - 3 tbsp olive oil  
 - freshly chopped basil or parsley leaves, for garnish  
 ## Instructions   
-1. Use paper towels to pat excess moisture from fish fillets. This helps the fish brown. Set aside.  
-2. In a bowl, combine melted butter, lemon juice and zest, and 1/2 tsp kosher salt. Add salt to taste.   
+1. Use paper towels to pat excess moisture from fish fillets. This step is crucial for fish to brown nicely in pan – otherwise, it will steam instead of brown. Set aside.  
+2. In a bowl, combine melted butter, lemon juice and zest, and 1/2 tsp kosher salt. Add more salt to taste.   
 3. In a separate bowl, combine the remaining 1/2 tsp kosher salt, paprika, garlic powder, onion powder, and black pepper. Evenly press spice mixture onto all sides of fish fillets.  
-4. In a large pan over medium high heat, heat up the olive oil until hot. Once your oil is sizzling,  cook fish fillets in pan ,avoid overcrowding. Cook each side until fish becomes opaque and is browned, about 2-3 minutes per side; drizzle some of the lemon butter sauce as you cook, save some for serving. Try not to over cook, as fish gets tough.  
-5. Serve fish with with remaining lemon butter sauce, basil or parsley, and lemon wedges if you're feeling fancy.   
+4. In a large pan over medium high heat, heat up the olive oil until hot. Once your oil is sizzling,  Cook 2 fish fillets at a time to avoid overcrowding (allows for even browning). Cook each side until fish becomes opaque and is browned, about 2-3 minutes per side; lightly drizzle some of the lemon butter sauce as you cook, reserving the rest for serving. Take care not to over-cook, as that will result in a tougher texture.   
+5. Serve fish with with remaining lemon butter sauce, basil or parsley, and lemon wedges.   
   
   
 #### Link  
