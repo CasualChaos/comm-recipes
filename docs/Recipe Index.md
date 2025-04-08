@@ -1,8 +1,10 @@
 ---
 share: "true"
 title: Recipe Index
-layout: recipe
+nav_order: "2"
 ---
+- TOC  
+{:toc}  
 ## Breakfast  
 - [Pancakes](./Pancakes.html)  
 - [Oatmeal Cups](./Oatmeal%20Cups.html)  
