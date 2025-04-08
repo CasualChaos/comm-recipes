@@ -1,23 +1,21 @@
 ---
-tags: [lunch]
+aliases: 
+tags:
+  - lunch
 title: Nikumaki Onigiri
-layout: recipe
+share: "true"
 parent: All Recipes
+layout: recipe
 ---
 Total time: 40 min  
-Active time:   
+Active time: longer than I would like  
   
 Servings: 16 onigiri, 4 serves  
   
-Pairing Suggestions: Kewpi mayo 
+Pairing Suggestions:   
   
 ---  
 ## Description  
-Onigiri. Had it at a street vendor in Japan, eternally trying to recreate it. 
-Good way to use up beef or pork thins left over from [hot pot](Hot Pot Ingredients.html).
-
-I reckon this would be good if I also wrapped it in lettuce to eat. I should try that.
-
 ## Ingredients  
    
 Onigiri  
