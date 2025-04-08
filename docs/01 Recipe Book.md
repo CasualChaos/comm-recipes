@@ -9,7 +9,6 @@ share: "true"
   
 ---  
 #### Recipes  
-Text  
 ##### Meals Lunch/Dinner  
 - [Nikumaki Onigiri](./Nikumaki%20Onigiri.md)  
 - [Filled Pretzel Rolls](./Filled%20Pretzel%20Rolls.md)  
