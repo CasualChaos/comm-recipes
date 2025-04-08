@@ -4,7 +4,9 @@ title: Recipe Index
 nav_order: "2"
 layout: default
 ---
-<details open markdown="block">  
+<h1>{{page.title}}</h1>  
+  
+<details markdown="block">  
   <summary>  
     Table of contents  
   </summary>  
