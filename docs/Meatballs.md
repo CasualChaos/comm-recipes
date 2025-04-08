@@ -1,8 +1,10 @@
 ---
-tags: [dinner, meal prep]
+aliases:
+  - Meatballs
+tags:
+  - dinner
 title: Meatballs
-layout: recipe
-parent: All Recipes
+share: "true"
 ---
 Total time: 1hour-ish?  
 Active time: 40min  
@@ -11,13 +13,12 @@ Servings:
 Makes approx 20 meatballs  
   
 Pairing Suggestions: Spaghetti, sub/sandwich, [Simple Pasta Sauce](./Simple%20Pasta%20Sauce.md)  
-
+  
+  
+>Notes: you can make 30 smaller meatballs and bake for 20-25min  
 ---  
 ## Description  
 It's meatballs. Idk what to say. Make a bunch and keep in the fridge for subs with some [Simple Pasta Sauce](./Simple%20Pasta%20Sauce.md). Have it with spaghetti.   
-
->Notes: you can make 30 smaller meatballs and bake for 20-25min  
-
 ## Ingredients  
    
 - 1kg beef, 80/20 preferred   
