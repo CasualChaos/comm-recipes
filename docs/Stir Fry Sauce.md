@@ -1,7 +1,10 @@
 ---
 aliases: 
-tags: [quick, dinner]
+tags:
+  - quick
+  - dinner
 title: Stir Fry Sauce
+share: "true"
 layout: recipe
 parent: All Recipes
 ---

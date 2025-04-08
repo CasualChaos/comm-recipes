@@ -5,6 +5,7 @@ tags:
   - dinner
 title: Meatballs
 share: "true"
+parent: All Recipes
 ---
 Total time: 1hour-ish?  
 Active time: 40min  
