@@ -1,7 +1,7 @@
 ---
 share: "true"
 title: Recipe Index
-nav_order: "2"
+nav_order: 2
 layout: default
 ---
 <h1>{{page.title}}</h1>  
