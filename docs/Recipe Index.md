@@ -5,7 +5,7 @@ nav_order: "2"
 layout: default
 ---
 <h1>{{page.title}}</h1>  
-  
+---  
 <details markdown="block">  
   <summary>  
     Table of contents  
@@ -14,7 +14,7 @@ layout: default
 1. TOC  
 {:toc}  
 </details>  
-  
+---  
 ## Breakfast  
 - [Pancakes](./Pancakes.html)  
 - [Oatmeal Cups](./Oatmeal%20Cups.html)  
