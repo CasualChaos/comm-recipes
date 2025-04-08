@@ -1,11 +1,10 @@
 ---
 share: "true"
 title: Recipe Index
-layout: tabrecipe
+layout: recipe
 ---
-#### Recipes  
 #### Breakfast  
-- [Pancakes](./Pancakes.md)  
+- [Pancakes](./Pancakes.html)  
 - [Oatmeal Cups](./Oatmeal%20Cups.md)  
 - [Filled Pretzel Rolls](./Filled%20Pretzel%20Rolls.md)  
   
