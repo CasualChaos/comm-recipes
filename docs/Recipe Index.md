@@ -3,37 +3,37 @@ share: "true"
 title: Recipe Index
 layout: recipe
 ---
-.html)  
-#### Breakfast  
-- [Pancakes](./Pancakes.md)  
-- [Oatmeal Cups](./Oatmeal%20Cups.md)  
-- [Filled Pretzel Rolls](./Filled%20Pretzel%20Rolls.md)  
+## Breakfast  
+- [Pancakes](./Pancakes.html)  
+- [Oatmeal Cups](./Oatmeal%20Cups.html)  
+- [Filled Pretzel Rolls](./Filled%20Pretzel%20Rolls.html)  
   
-##### Lunch/Dinner  
-- [Nikumaki Onigiri](./Nikumaki%20Onigiri.md)  
-- [Filled Pretzel Rolls](./Filled%20Pretzel%20Rolls.md)  
-- [Pizza Dough](./Pizza%20Dough.md)  
-- [Cheesy Pasta Bake](./Cheesy%20Pasta%20Bake.md)  
-- [Tuna Pasta Bake](./Tuna%20Pasta%20Bake.md)  
-- [Meatballs](./Meatballs.md)  
-- [Lemon Butter Fish](./Lemon%20Butter%20Fish.md)  
-- [Garlicky Spaghetti Carbonara](./Garlicky%20Spaghetti%20Carbonara.md)  
-- [Fried Rice](./Fried%20Rice.md)  
-- [Stir Fry Sauce](./Stir%20Fry%20Sauce.md)  
+## Lunch/Dinner  
+- [Nikumaki Onigiri](./Nikumaki%20Onigiri.html)  
+- [Filled Pretzel Rolls](./Filled%20Pretzel%20Rolls.html)  
+- [Pizza Dough](./Pizza%20Dough.html)  
+- [Cheesy Pasta Bake](./Cheesy%20Pasta%20Bake.html)  
+- [Tuna Pasta Bake](./Tuna%20Pasta%20Bake.html)  
+- [Meatballs](./Meatballs.html)  
+- [Lemon Butter Fish](./Lemon%20Butter%20Fish.html)  
+- [Garlicky Spaghetti Carbonara](./Garlicky%20Spaghetti%20Carbonara.html)  
+- [Fried Rice](./Fried%20Rice.html)  
+- [Stir Fry Sauce](./Stir%20Fry%20Sauce.html)  
   
-##### Quick   
-- [Garlic Soy Tofu](./Garlic%20Soy%20Tofu.md)  
-- [Lemon Butter Fish](./Lemon%20Butter%20Fish.md)  
-- [Garlicky Spaghetti Carbonara](./Garlicky%20Spaghetti%20Carbonara.md)  
-- [Fried Rice](./Fried%20Rice.md)  
-- [Stir Fry Sauce](./Stir%20Fry%20Sauce.md)  
+## Quick   
+- [Garlic Soy Tofu](./Garlic%20Soy%20Tofu.html)  
+- [Lemon Butter Fish](./Lemon%20Butter%20Fish.html)  
+- [Garlicky Spaghetti Carbonara](./Garlicky%20Spaghetti%20Carbonara.html)  
+- [Fried Rice](./Fried%20Rice.html)  
+- [Stir Fry Sauce](./Stir%20Fry%20Sauce.html)  
   
   
-##### Baking  
-- [Choc Chip Cookies](./Choc%20Chip%20Cookies.md)  
-- [Lemon Crinkle Cookies](./Lemon%20Crinkle%20Cookies.md)  
-- [Sugar Cookies](./Sugar%20Cookies.md)  
+## Baking  
+- [Choc Chip Cookies](./Choc%20Chip%20Cookies.html)  
+- [Lemon Crinkle Cookies](./Lemon%20Crinkle%20Cookies.html)  
+- [Sugar Cookies](./Sugar%20Cookies.html)  
   
-#### Misc  
-- [Hot Pot Ingredients](./Hot%20Pot%20Ingredients.md)  
-- [Simple Pasta Sauce](./Simple%20Pasta%20Sauce.md)  
+## Misc  
+- [Hot Pot Ingredients](./Hot%20Pot%20Ingredients.html)  
+- [Simple Pasta Sauce](./Simple%20Pasta%20Sauce.html)  
+- [Vegan Egg Substitutes](./Vegan%20Egg%20Substitutes.html)  
