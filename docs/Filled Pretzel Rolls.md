@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Filled Pretzel Roll
+  - Filled Pretzel Rolls
 tags:
   - meal prep
   - lunch
@@ -21,7 +21,7 @@ Easy rolls to make and freeze for quick breakfast or lunch. Just microwave for a
   
 ## Ingredients  
    
-Use [Pizza Dough](./Pizza%20Dough.md) as dough  
+Use [Pizza Dough](./Pizza%20Dough.html) as dough  
 #### Filling Options  
 **Breakfast rolls**  
 - 2 cups Shredded Cheddar Cheese  
