@@ -1,42 +1,54 @@
 ---
-tags: [vegetarian, quick, entree, vegan]
+aliases:
+  - Crispy Garlic Soy Tofu
+tags:
+  - vegetarian
+  - quick
+  - entree
+  - vegan
+share: "true"
 title: Garlic Soy Tofu
 parent: All Recipes
 layout: recipe
 ---
   
-  
 Total time: 20min   
 Active time: 20min  
 Servings: ~3  
-Pairing Suggestions: medium grain rice, [Fried rice](Fried Rice.html)  
-#### Description  
+  
+Pairing Suggestions: medium grain rice  
+  
+---  
+## Description  
 Quick Asian stir fry, easy to convert to vegetarian/vegan.   
 ## Ingredients  
   
 #### Main  
-- 350g Tofu, hard tofu works best   
-- 3/4 cup cornflour, maybe more  
-- Spring onion, garnish  
-- Sesame seeds, garnish  
+- 350g Tofu  
+- Spring Onion, garnish  
+- 3/4 cup Cornflour  
+- Sesame seeds  
+- Oil  
 #### Sauce  
-- Soy Sauce  
-- Dark Soy Sauce  
-- 2 Cloves of garlic  
-- 1 tablespoon oyster sauce, vegetarian oyster sauce works  
-- 1 teaspoon chinese coking wine, optional  
-- 1 teaspoon white sugar
-- 1 teaspoon rice vinegar  
-- 1/2 tablespoon cornstarch  
-- 1/2 cup water, room temperature
-
-## Instructions
-1. Combine the sauce ingredients and set aside.
-2. Pat dry the tofu with paper towels to remove excess moisture and dice into 1-1.5cm cubes.
-3. Spread cornstarch onto a large plate or baking sheet and generously and gently coat the diced tofu in small batches. Add more cornstarch as needed. Set aside.
-4. Heat vegetable oil in a large pan on medium heat. Fry coated tofu until golden and crispy, about 14-20 mins in total, flipping over halfway. You may to do it in batches to avoid overcrowding.
-5. Add the sauce into the pan and simmer to thicken.
-6. Toss fried tofu in the thickened sauce until coated. Remove from heat. Garnish with spring onions and sesame seeds.
+- 2 garlic cloves, minced  
+- 1 tbsp regular soy sauce  
+- 1 tbsp dark soy sauce  
+- 1 tbsp oyster sauce  
+- 1 tsp Chinese cooking wine, optional  
+- 1 tsp white sugar  
+- 1 tsp rice vinegar/white vinegar  
+- 1/2 tablespoon cornflour  
+- 1/2 cup water room temperature  
+  
+## Instructions  
+1. In a small bowl, combine the sauce ingredients and set aside.  
+2. Pat dry the tofu with paper towels to remove excess moisture and dice into 2cm cubes.  
+3. Spread cornflour onto a large plate or baking sheet and gently coat the diced tofu in small batches. Add more cornflour as needed.   
+4. Heat oil in a large pan on medium heat. Fry coated tofu until golden and crispy, about 14-20 mins in total, flipping over halfway.   
+5. Add the sauce into the pan and simmer to thicken.  
+6. Toss fried tofu in the thickened sauce until evenly coated. Remove from heat. Garnish with green onions and sesame seeds.   
+7. Serve  
   
 ## Link  
+  
 [Recipe Link](https://christieathome.com/blog/crispy-soy-garlic-tofu/#recipe)
