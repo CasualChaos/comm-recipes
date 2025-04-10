@@ -20,7 +20,7 @@ Pairing Suggestions: medium grain rice
   
 ---  
 ## Description  
-Quick Asian stir fry, easy to convert to vegetarian/vegan.   
+Simple entree or side dish. Serve with rice. Plain or [Fried](./Fried%20Rice.html).  
 ## Ingredients  
   
 #### Main  
