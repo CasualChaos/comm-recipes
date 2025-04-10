@@ -5,6 +5,7 @@ tags:
   - dinner
 share: "true"
 title: Pizza Dough
+parent: All Recipes
 ---
   
 Total time: 40-60 min  
@@ -12,6 +13,7 @@ Active time: 15 min
   
 Servings: 3-4 pizza bases  
   
+---  
 ## Description  
 Simple pizza dough. Start it like 30 -60min before you want to make your pizza.  
 Add whatever toppings you'd like.   
