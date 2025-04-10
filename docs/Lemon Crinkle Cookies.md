@@ -17,6 +17,8 @@ Pairing Suggestions:
   
 ---  
 ## Description  
+Lemony, sugary goodness.  
+Add some shredded coconut to the mix if you want to change things up.  
 ## Ingredients  
    
 - 1 cup granulated sugar (200g)  
