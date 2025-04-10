@@ -22,6 +22,8 @@ I don't actually remember what the real name for this recipe is.
 This was originally a side/entree for dinner, but I think it's great for breakfast. Put this on toast and have a great day. I just used whatever button mushrooms are available.  
   
 Replace the beef stock with veggie stock/broth and replace butter with an equal amount of olive oil for vegetarian/vegan versions. If not using beef stock, I'd reduce the worcestershire sauce by half so it's a bit less overwhelming.  
+  
+Store in a jar in the fridge for up to a week.  
 ## Ingredients  
    
 - 250g sliced mushrooms  

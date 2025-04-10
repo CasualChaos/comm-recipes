@@ -2,6 +2,7 @@
 aliases: 
 tags:
   - misc
+  - breakfast
 title: Red Bean Paste
 layout: recipe
 parent: All Recipes

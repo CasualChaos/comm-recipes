@@ -1,9 +1,10 @@
 ---
-tags: [dinner]
+aliases:
+  - Pizza Dough
+tags:
+  - dinner
 share: "true"
 title: Pizza Dough
-layout: recipe
-parent: All Recipes
 ---
   
 Total time: 40-60 min  
@@ -13,10 +14,12 @@ Servings: 3-4 pizza bases
   
 ## Description  
 Simple pizza dough. Start it like 30 -60min before you want to make your pizza.  
+Add whatever toppings you'd like.   
+Also good for [Filled Pretzel Rolls](./Filled%20Pretzel%20Rolls.html).  
   
 #### Notes  
 If your yeast has been in the fridge let it sit out for at least half an hour to come to room temp.  
-If it's too cold for your dough to rise, create a warming drawer by preheating your oven to 50C or as low as possible before turning off. Cover your dough and leave in the oven to rise.  
+If it's too cold for your dough to rise, create a warming drawer by preheating your oven to 50$^o$ C or as low as possible before turning off. Cover your dough and leave in the oven to rise.  
   
 ## Ingredients  
    
@@ -26,7 +29,6 @@ If it's too cold for your dough to rise, create a warming drawer by preheating y
 - 600g plain flour  
 - 1tsp salt  
 - 60ml (1/4cup) oil (probably olive)  
-  
 - extra plain flour for kneading, dusting, etc  
   
 ## Instructions   

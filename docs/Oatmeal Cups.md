@@ -14,6 +14,7 @@ Servings: 12
   
 ---  
 ## Description  
+Another quick breakfast muffin/bite option.  
 ## Ingredients  
    
 - 2 1/2 cups rolled oats  
