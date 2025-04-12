@@ -9,6 +9,10 @@ favicon_ico: "/assets/images/favicon.ico"
 back_to_top: true
 back_to_top_text: "Back to top"
 
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
+
+
 
 # aux_links:
 #   Template Repository: https://github.com/just-the-docs/just-the-docs-template
